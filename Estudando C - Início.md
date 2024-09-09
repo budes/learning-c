@@ -10,4 +10,4 @@ Eu mudei a ordem daqui, comparado ao [site](https://www.learn-c.org/en/Condition
 7. [[Arrays and Multidimensional Arrays]]
 8. [[Strings]]
 9. [[Functions]]
-10. Scopes and Static
+10. [[Scopes and Static]]
